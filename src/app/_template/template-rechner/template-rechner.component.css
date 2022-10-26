@@ -1,0 +1,54 @@
+/*-------CSS für Rechner------*/
+
+.background {
+
+	width: 1000px;
+	background-color: #B3B3B3;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box1 {
+
+	width: 150px;
+	height: 20px;
+	background-color:;
+	border: 2px solid #191919;
+	position: absolute;
+	text-align: right;
+
+}
+.box2 {
+
+	margin-left: 155px;
+	position: relative;
+	background-color:;
+	border: 2px solid #191919;
+	text-align: right;
+}
+.box3 {
+
+	width: 100px;
+	position: absolute;
+	margin-left: 1px;
+	padding-left: 10px;
+	border: 2px solid #191919;
+}
+.box4 {
+
+	width: 200px;
+	margin-left: 100px;
+	position: absolute;
+}
+.tabelle {
+
+	border: 2px solid #B3B3B3;
+	background-color: #E6E6E6;
+}
+.eingabe {
+
+	text-align: right;
+	margin-left: 10px;
+}
+td {
+
+	padding: 2px;
+}
